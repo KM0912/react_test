@@ -1,0 +1,12 @@
+.containerStyle {
+    height: 50px;
+    width: 200px;
+    background-color : #c20d00;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titleStyle {
+    color:white;
+}
